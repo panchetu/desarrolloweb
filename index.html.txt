@@ -1,0 +1,10 @@
+<!doctype html>
+ <html>
+<head>
+      <meta charset="utf-8"/>
+      <title>Bienvenido al curso de Desarrollo Web</title>    
+   </head>
+<body>
+      Contenido de la web
+   </body>
+</html>
